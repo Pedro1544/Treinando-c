@@ -7,23 +7,6 @@ Nesse Repositorio atual, estou treinando os tipos primitivos de variaveis:
 <!--Tabela dos tipos de variaveis C em html -->
 <html>
 <head>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    border: 1px solid black;
-  }
-
-  th, td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: left;
-  }
-
-  th {
-    background-color: #f2f2f2;
-  }
-</style>
 </head>
 <body>
 
@@ -66,23 +49,6 @@ Basicamente aconteceu que para  que essa declaração da variavel funcione, voc�
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    border: 1px solid black;
-  }
-
-  th, td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: left;
-  }
-
-  th {
-    background-color: #f2f2f2;
-  }
-</style>
 </head>
 <body>
 <table>
